@@ -193,8 +193,8 @@
     <setting id="subtitles.custompath" default="true" />
     <setting id="subtitles.pauseonsearch" default="true">true</setting>
     <setting id="subtitles.downloadfirst" default="true">false</setting>
-    <setting id="subtitles.tv" default="true" />
-    <setting id="subtitles.movie" default="true" />
+    <setting id="subtitles.tv">service.subtitles.a4ksubtitles</setting>
+    <setting id="subtitles.movie">service.subtitles.a4ksubtitles</setting>
     <setting id="pvrmanager.syncchannelgroups" default="true">true</setting>
     <setting id="pvrmanager.backendchannelorder" default="true">true</setting>
     <setting id="pvrmanager.usebackendchannelnumbersalways" default="true">false</setting>
@@ -371,8 +371,8 @@
     </audio>
     <resolutions />
     <general>
-        <systemtotaluptime>259</systemtotaluptime>
-        <settinglevel>0</settinglevel>
+        <systemtotaluptime>274</systemtotaluptime>
+        <settinglevel>1</settinglevel>
         <eventlog>
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
