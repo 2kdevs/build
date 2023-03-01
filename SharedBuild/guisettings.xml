@@ -371,7 +371,7 @@
     </audio>
     <resolutions />
     <general>
-        <systemtotaluptime>274</systemtotaluptime>
+        <systemtotaluptime>295</systemtotaluptime>
         <settinglevel>1</settinglevel>
         <eventlog>
             <level>0</level>
@@ -469,7 +469,7 @@
             <sortattributes>0</sortattributes>
         </pictures>
         <programs>
-            <viewmode>65536</viewmode>
+            <viewmode>0</viewmode>
             <sortmethod>1</sortmethod>
             <sortorder>1</sortorder>
             <sortattributes>1</sortattributes>
