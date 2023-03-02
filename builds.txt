@@ -3,7 +3,7 @@ version="2.0.15"
 zip="url.to.wizard"
 
 name="Shared build 1"
-version="1.5"
+version="1.6"
 url="https://github.com/2kdevs/build/raw/master/SharedBuild/shared_build.zip"
 minor="http://"
 gui="https://raw.githubusercontent.com/2kdevs/build/master/SharedBuild/guisettings.xml"
