@@ -1,6 +1,6 @@
 name="Shared build 1"
 version="1.8"
-url="https://f004.backblazeb2.com/file/Kodi-builds/SharedBuild/shared_build.txt"
+url="https://f004.backblazeb2.com/file/Kodi-builds/SharedBuild/shared_build.zip"
 minor="http://"
 gui="https://f004.backblazeb2.com/file/Kodi-builds/SharedBuild/guisettings.xml"
 kodi="20.0"
