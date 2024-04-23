@@ -13,11 +13,11 @@ info="https://f004.backblazeb2.com/file/Kodi-builds/SharedBuild/shared_build.txt
 description="A shared build using Arctic Horizon 2."
 
 name="Other Build"
-version="1.9.1"
+version="2.0.0"
 url="https://f004.backblazeb2.com/file/Kodi-builds/OtherBuild/other_build.zip"
 minor="http://"
 gui="https://f004.backblazeb2.com/file/Kodi-builds/OtherBuild/guisettings.xml"
-kodi="20.0"
+kodi="21.0"
 theme="https://"
 icon="http://"
 fanart="http://"
